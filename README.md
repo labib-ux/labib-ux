@@ -18,8 +18,8 @@ I like projects where the data is messy and the problem is real. Most of what I'
 
 | Repository | What it is |
 |---|---|
-| **[FYDP](https://github.com/labib-ux/FYDP)** | Fabric defect detection (YOLO) + lead-time prediction (RandomForest) for textile manufacturing |
-| **[Nagorik Seba](https://github.com/labib-ux/project)** | Ward-level civic complaint platform — Spring Boot, PostgreSQL/PostGIS, Thymeleaf |
+| **[fabric-defect-detection](https://github.com/labib-ux/fabric-defect-detection)** | Fabric defect detection (YOLO) + lead-time prediction (RandomForest) for textile manufacturing |
+| **[Nagorik Seba](https://github.com/labib-ux/nagorik-seba)** | Ward-level civic complaint platform — Spring Boot, PostgreSQL/PostGIS, Thymeleaf |
 | **[friendly-broccoli](https://github.com/labib-ux/friendly-broccoli)** | Algorithmic trading bot using reinforcement learning (PPO) |
 | **[project-tracker](https://github.com/labib-ux/project-tracker)** | Student project management system for a research portal |
 
